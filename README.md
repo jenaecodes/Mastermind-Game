@@ -30,6 +30,10 @@ ________
 4. The feedback includes information about correct numbers and their positions.
 5. Continue guessing until you correctly guess the code or run out of attempts.
 
+## Screenshot
+
+![Jennys_Mastermind](https://github.com/jenaecodes/Mastermind-Game/assets/89617621/47609aa0-39bc-46a6-ab33-f13350a10e4a)
+
 ________
 ## Computer's Feedback
 The computer provides feedback in the following formats:
