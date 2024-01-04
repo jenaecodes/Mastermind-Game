@@ -6,9 +6,10 @@ ________
 
 ## Getting Started
 1. Clone the repository to your local machine.
-2. Open the project in IntelliJ IDEA.
-3. Locate `MastermindGame.java`
-4. Run the play button on `line 11` to start the game.
+2. Download IntelliJ Community Edition and the latest Java Development Kit.
+3. Open the project in IntelliJ IDEA.
+4. Locate `MastermindGame.java`
+5. Run the play button on `line 11` to start the game.
 
 ## Play via .jar File
 1. Open the terminal in the project's location.
